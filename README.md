@@ -1,5 +1,3 @@
-# Terraform-Kubernetes
-
 # Terraform: Automating Infrastructure Deployment
 
 # 1. Terraform and Why Do We Use It?
